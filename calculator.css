@@ -1,0 +1,51 @@
+.main{
+
+}
+.buttons{
+  
+  display: grid;
+  text-align: center;
+  font-size: 25px;
+  grid-template-rows: 40px 40px 40px;
+  grid-template-columns: 40px 40px 40px 40px  ;
+  margin-left: 32px;
+  
+  
+  
+}
+.button-element{
+  font-size: 22px;
+  padding-right: 30px;
+  padding-left: 0px;
+  background-color: linear-gradient(to right,rgb(240, 229, 229),rgb(241, 241, 93));
+  width: 80px;
+  height: 40px;
+  margin-left: 150px;
+  vertical-align: bottom;
+  
+  
+  
+
+}
+.del-button{
+  padding-right: 15px;
+}
+.display{
+  margin-left: 180px;
+  margin-right: 300px;
+  padding-right: 0px;
+  padding-left: 170px;
+  margin-top: 80px;
+  padding-bottom: 0px;
+  margin-bottom: -25px;
+  border: none;
+  border-radius: 5px;
+  padding-top: 30px;
+  font-size: 20px;
+  font-family: Arial;
+  font-weight: bold;
+  
+  color: white;
+  background-color: black;
+  
+}
